@@ -43,7 +43,9 @@ THIRD_APPS = [
     'rest_framework'
 ]
 
-LOCAL_APPS = []
+LOCAL_APPS = [
+    'employees.apps.EmployeesConfig'
+]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_APPS + LOCAL_APPS
 
