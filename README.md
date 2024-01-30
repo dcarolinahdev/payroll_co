@@ -2,7 +2,7 @@
 
 This project was created to remember and implement basic aspects of a Colombian payroll.
 
-You can review the requirements in [this file](https://github.com/dcarolinahdev/payroll_co_django/blob/main/requirements.txt).
+You can review the requirements in [this file](https://github.com/dcarolinahdev/payroll_co/blob/main/requirements.txt).
 
 The idea is to have a structure that facilitates the settlement of a Colombian payroll. The project will handle concepts such as:
 
